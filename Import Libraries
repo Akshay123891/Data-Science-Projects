@@ -1,0 +1,19 @@
+"""
+import_libraries.py
+
+This script imports all the essential libraries required for:
+- NumPy operations
+- Pandas DataFrame handling
+- Matplotlib visualizations
+
+Author: Akshay Kumar
+Date:07-06-2025
+
+# Numerical computing
+import numpy as np
+
+# Data analysis and manipulation
+import pandas as pd
+
+# Plotting and visualization
+import matplotlib.pyplot as plt
