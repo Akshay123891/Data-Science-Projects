@@ -1,8 +1,4 @@
 
-## 📘 Contents
-
-The script `module7_solution.py` includes solutions for:
-
 ### ✅ Assignment 1 – NumPy
 - Create and manipulate 1D and 2D arrays
 - Perform basic statistics: sum, mean, median, standard deviation
